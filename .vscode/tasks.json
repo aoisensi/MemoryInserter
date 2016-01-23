@@ -1,0 +1,11 @@
+{
+	"command": "gulp",
+	"isShellCommand": true,
+	"tasks": [
+		{
+			"taskName": "build",
+			"isBuildCommand": true,
+			"showOutput": "silent"
+		}
+	]
+}
